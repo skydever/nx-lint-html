@@ -1,0 +1,4 @@
+{
+  // lint errors in html files will show up with this actiavted:
+  // "eslint.validate": ["html"]
+}
